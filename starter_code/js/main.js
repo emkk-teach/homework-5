@@ -1,3 +1,5 @@
+// This is where your document ready function should go and wrap the most of your JS
+
 // console.log("page ready");
 $("form").submit(function(event){
   // console.log("submit function");
